@@ -6,7 +6,7 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather+Sans:300,700);
 
 body {
-  font: 20px "Merriweather Sans","Roboto",Helvetica,Helvetica Neue,Arial;
+  font: 26px "Merriweather Sans","Roboto",Helvetica,Helvetica Neue,Arial;
   margin:0px;
   background-color:#EEE;
 }
@@ -25,7 +25,7 @@ h1 {
 h2 {
   font-family: 'Roboto', sans-serif;
 	font-weight: 300;
-	font-size: 24px;
+	font-size: 30px;
 }
 
 h3 {
@@ -40,7 +40,7 @@ li {
 }
 
 p {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 #titlebar-container-menu a {
